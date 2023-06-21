@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheenN&show_icons=true&theme=radical" alt="atheenn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atheenn&show_icons=true&theme=radical" alt="atheenn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtheenN&show_icons=true&theme=tokyonight&rank_icon=github" alt="atheenn" /></p>
 
 
 
