@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm AtheenN</h1>
 <h3 align="center">Hungarian and 14 years old</h3>
+<p align="left"> <img src="https://api.status.gg/discord/1118972920916615209?&theme%5Bbackground%5D%5Bprimary%5D=000000&theme%5Bbackground%5D%5Bsecondary%5D=000000&border%5Bcolor%5D=19c7fc&border%5Bradius%5D=30&border%5Bwidth%5D=3&theme%5Btext%5D%5Bprimary%5D=19c7fc&theme%5Btext%5D%5Bsecondary%5D=ffffff" alt="asd" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atheenn&label=Profile%20views&color=0e75b6&style=flat" alt="atheenn" /> </p>
 
 
